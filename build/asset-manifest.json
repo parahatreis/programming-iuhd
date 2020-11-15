@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd079be4.chunk.css",
+    "main.js": "/static/js/main.cbca36f3.chunk.js",
+    "main.js.map": "/static/js/main.cbca36f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d8ceafa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d8ceafa.js.map",
+    "static/js/2.e67d2289.chunk.js": "/static/js/2.e67d2289.chunk.js",
+    "static/js/2.e67d2289.chunk.js.map": "/static/js/2.e67d2289.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e05aa239102453118199cb98a1db6f2e.js": "/precache-manifest.e05aa239102453118199cb98a1db6f2e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cd079be4.chunk.css.map": "/static/css/main.cd079be4.chunk.css.map",
+    "static/js/2.e67d2289.chunk.js.LICENSE.txt": "/static/js/2.e67d2289.chunk.js.LICENSE.txt",
+    "static/media/IUHD-LOGO-02.png": "/static/media/IUHD-LOGO-02.0b2bbd88.png",
+    "static/media/IUHD-LOGO-WHITE-01.png": "/static/media/IUHD-LOGO-WHITE-01.5e966d7e.png",
+    "static/media/IUHD-LOGO.png": "/static/media/IUHD-LOGO.4a46a3ef.png",
+    "static/media/App.scss": "/static/media/Nunito-Regular.65bb0a15.ttf",
+    "static/media/doc.png": "/static/media/doc.3082ea12.png",
+    "static/media/en-club.png": "/static/media/en-club.1d6bf058.png",
+    "static/media/ppt.png": "/static/media/ppt.1d0014c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8ceafa.js",
+    "static/js/2.e67d2289.chunk.js",
+    "static/css/main.cd079be4.chunk.css",
+    "static/js/main.cbca36f3.chunk.js"
+  ]
+}

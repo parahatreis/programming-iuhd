@@ -1,0 +1,24 @@
+.lectures {
+   width: 100%;
+   margin-bottom: 5rem;
+   .lecture {
+      text-decoration: none;
+      color: black;
+      display: block;
+      width: 100%;
+      cursor: pointer;
+      background-color: white;
+      box-shadow: 0 6px 26px rgba(0, 0, 0, .08);
+      padding: 1rem  1rem;
+      margin-top: 1rem ;
+      transition: 0.5s box-shadow;
+      border-radius: 5px;
+      &:hover {
+         box-shadow: 0 6px 16px rgba(0, 0, 0, 0.158);
+      }
+      .lecture-number {
+         font-size: $m-size;
+         margin-right:  1rem;
+      }
+   }
+}
