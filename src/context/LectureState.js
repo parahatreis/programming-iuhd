@@ -8,12 +8,61 @@ const LectureState = props => {
       lectures : [
          {
             id : 1,
-            title : 'Front-end Web Design',
-            body : 'What is HTML?Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.',
-            video : '1.mp4',
-            docs: ['ParahatIljanov.docx', '2.docx', '3.docx', '4.docx', '5.docx'],
-            'ppts' : ['1.pptx', '2.pptx']
-         }
+            title: 'Introduction to Programming Python',
+            docs: null,
+            'ppts': ['_1_1_Introduction to Programming_Python.pptx']
+         },
+         {
+            id: 2,
+            title: 'Variables(Üýtgeýijiler)',
+            docs: null,
+            'ppts': ['_2_1_Variables(Üýtgeýijiler).pptx', '_2_2_input()_str()_int()_float() functions.pptx']
+         },
+         {
+            id: 3,
+            title: 'Parameters of print function',
+            docs: null,
+            'ppts': ['_3_1_Solution of Problems.pptx', '_3_1_Solution of Problems.pptx', '_3_3_Solution of Problems.pptx']
+         },
+         {
+            id: 4,
+            title: 'Solution of Problems',
+            docs: null,
+            'ppts': ['_4_1_Solution of Problems.pptx', '_4_2_Lecture_Solution of Problems.pptx', '_4_3_Solution of Problems.pptx']
+         }, {
+            id: 5,
+            title: 'Boolean if/else',
+            docs: null,
+            'ppts': ['_5_1_Solution of Problems.pptx', '_5_2_Lecture_ Boolean_if_else.pptx', '_5_3_Solution of Problems.pptx']
+         }, {
+            id: 6,
+            title: 'Elif , nested If',
+            docs: null,
+            'ppts': ['_6_1_Solution of Problems.pptx', '_6_2_Lecture_elif_nested if.pptx', '_6_3_Solution of Problems.pptx']
+         },
+         {
+            id: 7,
+            title: 'While statement',
+            docs: null,
+            'ppts': ['_7_1_Solution of Problems.pptx', '_7_2_Lecture_while statement.pptx', '_7_3_Solution of Problems.pptx']
+         }, {
+            id: 8,
+            title: 'Solution of Problems',
+            docs: null,
+            'ppts': ['_8_1_Solution of Problems.pptx', '_8_2_Lecture_Solution of Problems.pptx', '_8_3_Solution of Problems.pptx']
+         }, {
+            id: 9,
+            title: 'Solution of Problems',
+            docs: null,
+            'ppts': ['_9_1_Lecture_Solution of Problems.pptx']
+         },
+         {
+            id: 10,
+            title: 'Practice for Midterm exam in Python',
+            docs: ['Practice for Midterm exam in Python.docx'],
+            'ppts': null
+         },
+         
          
       ],
       lecture : {},
